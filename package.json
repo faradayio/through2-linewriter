@@ -1,0 +1,29 @@
+{
+  "name": "through2-linewriter",
+  "version": "0.0.1",
+  "description": "Opposite of a line reader. Appends a newline to every chunk pushed through the stream. Uses through2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faradayio/through2-linewriter.git"
+  },
+  "keywords": [
+    "line",
+    "writer",
+    "reader",
+    "linereader",
+    "stream",
+    "transform",
+    "through",
+    "through2"
+  ],
+  "author": "Tristan Davies <tristan@faraday.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faradayio/through2-linewriter/issues"
+  },
+  "homepage": "https://github.com/faradayio/through2-linewriter",
+  "dependencies": {
+    "through2": "^1.1.1"
+  }
+}
